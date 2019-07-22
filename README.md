@@ -1,1 +1,1 @@
-# super-store
+# vacation-store using React & Redux
