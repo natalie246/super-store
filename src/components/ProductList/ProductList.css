@@ -1,0 +1,18 @@
+.flex {
+
+}
+
+.productListLi{
+    flex: 1 0 21%;
+    margin: 5px;
+
+}
+
+.productListUl{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}

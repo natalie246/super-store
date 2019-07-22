@@ -1,0 +1,18 @@
+.search {
+    margin:  auto;
+    width: 40%;
+    border: 2px solid #CCC;
+    padding: 15px;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pa{
+    padding-top: 40px;
+}
